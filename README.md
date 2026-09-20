@@ -54,15 +54,21 @@ The EDA helped us understand the following:
 - Customers with similar income can have different spending scores.
 - The scatter plot shows different patterns of customers based on income and spending behavior.
 - The dataset is suitable for further customer segmentation analysis.
-Files Added by Member 1
-customers.csv
-dataset_unsupervised.py
-EDA.py
-EDA_Findings.txt
-visualizations/
-├── income_distribution.png
-├── spending_distribution.png
-└── income_vs_spending.png
+
+  
+Files Added by me
+  customer-segmenter-app/
+  │
+  ├── dataset_unsupervised.py
+  ├── customers.csv
+  ├── EDA.py
+  ├── EDA_Findings.txt
+  │
+  └── visualizations/
+      ├── income_distribution.png
+      ├── spending_distribution.png
+      └── income_vs_spending.png
+
 Tools Used
 - Python
 - Pandas
