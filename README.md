@@ -57,8 +57,9 @@ The EDA helped us understand the following:
 
   
 Files Added by me
+
   customer-segmenter-app/
-  │
+  │ 
   ├── dataset_unsupervised.py
   ├── customers.csv
   ├── EDA.py
