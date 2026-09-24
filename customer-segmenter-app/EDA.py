@@ -65,7 +65,6 @@ plt.tight_layout()
 
 plt.savefig("visualizations/income_distribution.png")
 plt.show()
-plt.close()
 
 
 # ============================================================
@@ -88,7 +87,6 @@ plt.tight_layout()
 
 plt.savefig("visualizations/spending_distribution.png")
 plt.show()
-plt.close()
 
 
 # ============================================================
@@ -113,7 +111,6 @@ plt.tight_layout()
 
 plt.savefig("visualizations/income_vs_spending.png")
 plt.show()
-plt.close()
 
 
 print("\n===== EDA COMPLETED SUCCESSFULLY =====")
